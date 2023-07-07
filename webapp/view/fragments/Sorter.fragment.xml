@@ -1,0 +1,16 @@
+<core:FragmentDefinition
+		xmlns="sap.m"
+		xmlns:core="sap.ui.core">
+		<ViewSettingsDialog id="Filters" confirm="handleConfirmSorter">
+				<sortItems>
+					<ViewSettingsItem text="{i18n>sortProjectName}" key="ProjectName" selected="true" />
+					<ViewSettingsItem text="{i18n>sortProjectId}" key="ProjectId" />
+					<ViewSettingsItem text="{i18n>sortProjectStatus}" key="ProjectStatus" />
+					<ViewSettingsItem text="{i18n>sortProjectType}" key="ProjectType" />
+					<ViewSettingsItem text="{i18n>sortAccount}" key="Account" />
+					<ViewSettingsItem text="{i18n>sortTimelineChanges}" key="TimelineLanguageChanged" />
+					<ViewSettingsItem text="{i18n>sortSimulatedTimeline}" key="SimulationTimelineExist" />
+						<ViewSettingsItem text="{i18n>sortLockedLanguages}" key="TimelineLocked" />
+				</sortItems>
+		</ViewSettingsDialog>
+</core:FragmentDefinition>

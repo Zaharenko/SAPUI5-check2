@@ -1,0 +1,526 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('01000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('01000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "01000",
+                "StatusDscr": "Project created",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('10000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('10000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "10000",
+                "StatusDscr": "Request received",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('15000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('15000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "15000",
+                "StatusDscr": "Structure confirmed",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('20000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('20000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "20000",
+                "StatusDscr": "In clarification",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('20050')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('20050')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "20050",
+                "StatusDscr": "In clarification",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('20100')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('20100')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "20100",
+                "StatusDscr": "Workflow defined",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('20200')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('20200')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "20200",
+                "StatusDscr": "Forecast done",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('30000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('30000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "30000",
+                "StatusDscr": "In preparation",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('30100')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('30100')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "30100",
+                "StatusDscr": "In cost review",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('30200')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('30200')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "30200",
+                "StatusDscr": "Costs approved",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('30300')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('30300')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "30300",
+                "StatusDscr": "Resources planned",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40000",
+                "StatusDscr": "In progress",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40050')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40050')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40050",
+                "StatusDscr": "Ready for handover",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40100')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40100')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40100",
+                "StatusDscr": "Handed over to PM",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40150')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40150')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40150",
+                "StatusDscr": "Ready for processing",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40200')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40200')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40200",
+                "StatusDscr": "In translation",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40250')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40250')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40250",
+                "StatusDscr": "Final worklist in translation",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40300')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40300')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40300",
+                "StatusDscr": "In copy-editing",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40350')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40350')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40350",
+                "StatusDscr": "In first PG creation/length check",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40400')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40400')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40400",
+                "StatusDscr": "In pre-flight check",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40450')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40450')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40450",
+                "StatusDscr": "Waiting for pre-flight check",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40470')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40470')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40470",
+                "StatusDscr": "Pre-flight check done",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40500')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40500')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40500",
+                "StatusDscr": "In testing",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40550')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40550')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40550",
+                "StatusDscr": "Testing done",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40575')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40575')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40575",
+                "StatusDscr": "Waiting for review information",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40600')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40600')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40600",
+                "StatusDscr": "In content review",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40610')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40610')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40610",
+                "StatusDscr": "In LAT",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40620')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40620')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40620",
+                "StatusDscr": "Waiting for recording information",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40650')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40650')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40650",
+                "StatusDscr": "In second review",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40660')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40660')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40660",
+                "StatusDscr": "In second length check",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40670')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40670')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40670",
+                "StatusDscr": "In review verification",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40700')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40700')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40700",
+                "StatusDscr": "In final review",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40750')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40750')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40750",
+                "StatusDscr": "In final implementation",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40760')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40760')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40760",
+                "StatusDscr": "In brand check",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40800')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40800')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40800",
+                "StatusDscr": "In PM QA",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40900')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40900')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40900",
+                "StatusDscr": "In production",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40950')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40950')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40950",
+                "StatusDscr": "In external production",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40960')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40960')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40960",
+                "StatusDscr": "In external sign-off",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40970')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('40970')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "40970",
+                "StatusDscr": "Delivery being prepared",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('50000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('50000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "50000",
+                "StatusDscr": "Cancelled",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('50100')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('50100')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "50100",
+                "StatusDscr": "Cancelled after first estimate",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('50200')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('50200')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "50200",
+                "StatusDscr": "Cancelled after final estimate",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('60000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('60000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "60000",
+                "StatusDscr": "Closed",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('70000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('70000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "70000",
+                "StatusDscr": "Delivered",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "80000",
+                "StatusDscr": "Review overdue",
+                "IsSubprjStatus": true
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80100')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80100')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "80100",
+                "StatusDscr": "Reviewer clarification needed",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80200')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80200')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "80200",
+                "StatusDscr": "Reviewer length check overdue",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80300')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80300')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "80300",
+                "StatusDscr": "Content review overdue",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80400')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80400')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "80400",
+                "StatusDscr": "Final review overdue",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80500')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80500')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "80500",
+                "StatusDscr": "Second review overdue",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80600')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('80600')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "80600",
+                "StatusDscr": "Reviewer recording info overdue",
+                "IsSubprjStatus": false
+            },
+            {
+                "__metadata": {
+                    "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('90000')",
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectStatuses('90000')",
+                    "type": "/GSSLS/PRJ_HELPER_SRV.ProjectStatus"
+                },
+                "ProjectStatusId": "90000",
+                "StatusDscr": "On hold",
+                "IsSubprjStatus": true
+            }
+        ]
+    }
+}

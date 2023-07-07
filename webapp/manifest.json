@@ -1,0 +1,174 @@
+{
+  "_version": "1.49.0",
+  "sap.app": {
+    "id": "project3",
+    "type": "application",
+    "i18n": "i18n/i18n.properties",
+    "applicationVersion": {
+      "version": "0.0.1"
+    },
+    "title": "{{appTitle}}",
+    "description": "{{appDescription}}",
+    "resources": "resources.json",
+    "sourceTemplate": {
+      "id": "@sap/generator-fiori:listdetail",
+      "version": "1.10.0",
+      "toolsId": "1f96cce6-eb90-4c02-bef3-8398fdb3218b"
+    },
+    "dataSources": {
+      "mainService": {
+        "uri": "/sap/opu/odata/sap/TIMELINES_SRV",
+        "type": "OData",
+        "settings": {
+          "annotations": [],
+          "localUri": "localService/metadata.xml",
+          "odataVersion": "2.0"
+        }
+      }
+    }
+  },
+  "sap.ui": {
+    "technology": "UI5",
+    "icons": {
+      "icon": "",
+      "favIcon": "",
+      "phone": "",
+      "phone@2": "",
+      "tablet": "",
+      "tablet@2": ""
+    },
+    "deviceTypes": {
+      "desktop": true,
+      "tablet": true,
+      "phone": true
+    }
+  },
+  "sap.ui5": {
+    "flexEnabled": true,
+    "dependencies": {
+      "minUI5Version": "1.115.1",
+      "libs": {
+        "sap.m": {},
+        "sap.ui.core": {},
+        "sap.f": {},
+        "sap.suite.ui.generic.template": {},
+        "sap.ui.comp": {},
+        "sap.ui.generic.app": {},
+        "sap.ui.table": {},
+        "sap.ushell": {}
+      }
+    },
+    "contentDensities": {
+      "compact": true,
+      "cozy": true
+    },
+    "models": {
+      "i18n": {
+        "type": "sap.ui.model.resource.ResourceModel",
+        "settings": {
+          "bundleName": "project3.i18n.i18n"
+        }
+      },
+      "": {
+        "dataSource": "mainService",
+        "preload": true,
+        "settings": {}
+      },
+      "detailView": {
+        "type": "sap.ui.model.json.JSONModel"
+      }
+    },
+    "resources": {
+      "css": []
+    },
+    "routing": {
+      "config": {
+        "routerClass": "sap.f.routing.Router",
+        "viewType": "XML",
+        "viewPath": "project3.view",
+        "controlId": "layout",
+        "controlAggregation": "beginColumnPages",
+        "bypassed": {
+          "target": [
+            "notFound"
+          ]
+        },
+        "async": true
+      },
+      "routes": [
+        {
+          "pattern": "",
+          "name": "list",
+          "target": "list"
+        },
+        {
+          "pattern": "Projects/{objectId}",
+          "name": "object",
+          "target": [
+            "list",
+            "object"
+          ]
+        },
+        {
+          "pattern": "{objectId}/SubProject/{subProjectId}",
+          "name": "timeline",
+          "target": [
+            "list",
+            "object",
+            "timeline"
+          ]
+        },
+        {
+          "pattern": "timelines/{PrjItemId}/{SlsLangIsoGrp}/{SlsLang}",
+          "name": "lastpage",
+          "target": [
+            "list",
+            "object",
+            "timeline",
+            "lastpage"
+          ]
+        }
+      ],
+      "targets": {
+        "list": {
+          "viewName": "List",
+          "viewLevel": 1,
+          "viewId": "list"
+        },
+        "object": {
+          "viewName": "Detail",
+          "viewId": "detail",
+          "viewLevel": 2,
+          "controlAggregation": "midColumnPages"
+        },
+        "timeline": {
+          "viewName": "Timeline",
+          "viewId": "timeline",
+          "viewLevel": 3,
+          "controlAggregation": "endColumnPages"
+        },
+        "lastpage": {
+          "viewName": "LastPage",
+					"viewId": "lastpage",
+          "viewLevel": 4,
+					"controlAggregation": "endColumnPages"
+				},
+        "detailObjectNotFound": {
+          "viewName": "DetailObjectNotFound",
+          "viewId": "detailObjectNotFound",
+          "controlAggregation": "midColumnPages"
+        },
+        "notFound": {
+          "viewName": "NotFound",
+          "viewId": "notFound"
+        }
+      }
+    },
+    "rootView": {
+      "viewName": "project3.view.App",
+      "type": "XML",
+      "async": true,
+      "id": "app"
+    }
+  }
+}

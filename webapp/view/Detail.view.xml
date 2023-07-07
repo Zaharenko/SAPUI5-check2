@@ -1,0 +1,104 @@
+<mvc:View
+    controllerName="project3.controller.Detail"
+    xmlns="sap.m"
+    xmlns:semantic="sap.f.semantic"
+    xmlns:mvc="sap.ui.core.mvc">
+
+    <semantic:SemanticPage
+        id="detailPage"
+        busy="{detailView>/busy}"
+        busyIndicatorDelay="{detailView>/delay}">
+        <semantic:titleHeading>
+            <Title
+                text="{ProjectName}"
+                level="H2"/>
+        </semantic:titleHeading>
+        <semantic:headerContent>
+            <ObjectAttribute title="{i18n>detailId}" text="{ProjectId}"/>
+            <ObjectAttribute title="{i18n>projectType}" text="{ProjectType}"/>
+            <ObjectAttribute title="{i18n>accaunt}" text="{Account}"/>
+        </semantic:headerContent>
+        <semantic:content>
+
+            <List
+            id="lineItemsList"
+            items="{
+                path: 'ToSubprojects'
+            }"
+            class="sapFDynamicPageAlignContent"
+            width="auto"
+>
+<headerToolbar>
+    <OverflowToolbar>
+        <SearchField
+            id="searchField"
+            showRefreshButton="true"
+            tooltip="{i18n>listSearchTooltip}"
+            search=".onSearch"
+            width="auto">
+            <layoutData>
+                <OverflowToolbarLayoutData
+                    minWidth="150px"
+                    maxWidth="240px"
+                    shrinkable="true"
+                    priority="NeverOverflow"/>
+            </layoutData>
+        </SearchField>
+        <ToolbarSpacer/>
+        <Button
+            id="sortButton"
+            press=".onOpenViewSettings"
+            icon="sap-icon://sort"
+            type="Transparent"/>
+
+    </OverflowToolbar>
+</headerToolbar>
+                <items>
+                    <ObjectListItem
+                            press="toTimeLines"
+                            id="columnListItemTemplate"
+                            title="{SubprjName}"
+                            type="Active"
+                            showMarkers="true"
+                            markFlagged="{TimelineLocked}"
+                            markFavorite="{SimulationTimelineExist}"
+                            markLocked="{TimelineLanguageChanged}">
+                        <firstStatus>
+                            <ObjectStatus
+                                text="{SubprjStatus}"
+                                state="{
+                                    path: 'Status',
+                                    formatter: 'sap.m.sample.ObjectListItemMarkLocked.Formatter.status'
+                                }" />
+                        </firstStatus>
+                        <ObjectAttribute text="{PrjItemId}" />
+                        <ObjectAttribute text="{SubprjType}" />
+                    </ObjectListItem>
+                </items>
+            </List>
+        </semantic:content>
+        <!--Semantic ShareMenu Buttons-->
+
+        <semantic:closeAction>
+            <semantic:CloseAction
+                    id="closeColumn"
+                    press=".onCloseDetailPress"/>
+        </semantic:closeAction>
+
+        <semantic:fullScreenAction>
+            <semantic:FullScreenAction
+                    id="enterFullScreen"
+                    visible="{= !${device>/system/phone} &amp;&amp; !${appView>/actionButtonsInfo/midColumn/fullScreen}}"
+                    press=".toggleFullScreen"/>
+        </semantic:fullScreenAction>
+        <semantic:exitFullScreenAction>
+            <semantic:ExitFullScreenAction
+                    id="exitFullScreen"
+                    visible="{= !${device>/system/phone} &amp;&amp; ${appView>/actionButtonsInfo/midColumn/fullScreen}}"
+                    press=".toggleFullScreen"/>
+        </semantic:exitFullScreenAction>
+
+    </semantic:SemanticPage>
+
+
+</mvc:View>

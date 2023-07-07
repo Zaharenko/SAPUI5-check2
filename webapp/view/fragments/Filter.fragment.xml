@@ -1,0 +1,24 @@
+<core:FragmentDefinition
+		xmlns="sap.m"
+		xmlns:core="sap.ui.core">
+	<ViewSettingsDialog id="settingsDialog"
+			confirm="handleConfirmFilter">
+		<filterItems>
+			<ViewSettingsFilterItem text="Filters" key="1">
+				<items>
+					<ViewSettingsItem text="{i18n>filterProjectName}" key="ProjectName" />
+					<ViewSettingsItem text="{i18n>filterAccaunt}" key="Account" />
+					<ViewSettingsItem text="{i18n>filterProjectType}" key="ProjectType" />
+					<ViewSettingsItem text="{i18n>filterProjectStatus}" key="ProjectStatusDscr" />
+					<ViewSettingsItem text="{i18n>filterProjectID}" key="ProjectId" />
+				</items>
+			</ViewSettingsFilterItem>
+      <ViewSettingsFilterItem text="Timeline Locked" key="2">
+				<items>
+					<ViewSettingsItem text="true" key="true" />
+					<ViewSettingsItem text="false" key="false" />
+				</items>
+			</ViewSettingsFilterItem>
+		</filterItems>
+	</ViewSettingsDialog>
+</core:FragmentDefinition>

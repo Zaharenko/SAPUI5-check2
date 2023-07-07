@@ -1,0 +1,2111 @@
+{
+    "d": {
+        "results": [{
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esCO')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esCO')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "esCO",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1589932800000)/",
+            "EndDate": "/Date(1590105600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590166800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590159600000)/",
+            "ActStartDate": "/Date(1589932800000)/",
+            "ActEndDate": "/Date(1590105600000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Spanish - Colombia",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esCO')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esCO')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esCO')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esCO')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "esCO",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590192000000)/",
+            "EndDate": "/Date(1590969600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591030800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591023600000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Spanish - Colombia",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esCO')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esCO')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esCO')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esCO')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "esCO",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591056000000)/",
+            "EndDate": "/Date(1591142400000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591203600000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591196400000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Spanish - Colombia",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esCO')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esCO')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esMX')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esMX')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "esMX",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1589932800000)/",
+            "EndDate": "/Date(1590105600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590166800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590159600000)/",
+            "ActStartDate": "/Date(1589932800000)/",
+            "ActEndDate": "/Date(1590105600000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Spanish - Mexico",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esMX')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esMX')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esMX')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esMX')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "esMX",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590192000000)/",
+            "EndDate": "/Date(1590969600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591030800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591023600000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Spanish - Mexico",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esMX')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esMX')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esMX')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esMX')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "esMX",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591056000000)/",
+            "EndDate": "/Date(1591142400000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591203600000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591196400000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Spanish - Mexico",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esMX')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esMX')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enCA')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enCA')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "enCA",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1589932800000)/",
+            "EndDate": "/Date(1590105600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590166800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590159600000)/",
+            "ActStartDate": "/Date(1589932800000)/",
+            "ActEndDate": "/Date(1590105600000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "English - Canada",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enCA')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enCA')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enCA')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enCA')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "enCA",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590192000000)/",
+            "EndDate": "/Date(1590969600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591030800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591023600000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "English - Canada",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enCA')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enCA')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enCA')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enCA')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "enCA",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591056000000)/",
+            "EndDate": "/Date(1591142400000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591203600000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591196400000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "English - Canada",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enCA')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enCA')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enGB')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enGB')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "enGB",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1589932800000)/",
+            "EndDate": "/Date(1590105600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590166800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590159600000)/",
+            "ActStartDate": "/Date(1589932800000)/",
+            "ActEndDate": "/Date(1590105600000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "English - United Kingdom",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enGB')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enGB')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enGB')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enGB')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "enGB",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590192000000)/",
+            "EndDate": "/Date(1590969600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591030800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591023600000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "English - United Kingdom",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enGB')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enGB')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enGB')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='enGB')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "enGB",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591056000000)/",
+            "EndDate": "/Date(1591142400000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591203600000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591196400000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "English - United Kingdom",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enGB')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='enGB')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='cyGB')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='cyGB')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "cyGB",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1589932800000)/",
+            "EndDate": "/Date(1590105600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590166800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590159600000)/",
+            "ActStartDate": "/Date(1589932800000)/",
+            "ActEndDate": "/Date(1590105600000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Welsh - United Kingdom",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='cyGB')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='cyGB')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='cyGB')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='cyGB')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "cyGB",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590192000000)/",
+            "EndDate": "/Date(1590969600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591030800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591023600000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Welsh - United Kingdom",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='cyGB')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='cyGB')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='cyGB')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='cyGB')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "cyGB",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591056000000)/",
+            "EndDate": "/Date(1591142400000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591203600000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591196400000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Welsh - United Kingdom",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='cyGB')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='cyGB')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='arSA')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='arSA')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "arSA",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590451200000)/",
+            "EndDate": "/Date(1590624000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590685200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590678000000)/",
+            "ActStartDate": "/Date(1590451200000)/",
+            "ActEndDate": "/Date(1590624000000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Arabic - Saudi-Arabia",
+            "StepText": "Copyedit",
+            "SortOrder": "0001",
+            "StepColor": "#00BCD4",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='arSA')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='arSA')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='arSA')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='arSA')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "arSA",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590710400000)/",
+            "EndDate": "/Date(1591488000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591549200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591542000000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Arabic - Saudi-Arabia",
+            "StepText": "CON_REVIE",
+            "SortOrder": "0002",
+            "StepColor": "#ffeb3b",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='arSA')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='arSA')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='arSA')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='arSA')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "arSA",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591574400000)/",
+            "EndDate": "/Date(1591660800000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591722000000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591714800000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Arabic - Saudi-Arabia",
+            "StepText": "Final",
+            "SortOrder": "0003",
+            "StepColor": "#d500f9",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='arSA')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='arSA')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='bgBG')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='bgBG')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "bgBG",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1589932800000)/",
+            "EndDate": "/Date(1590105600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590166800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590159600000)/",
+            "ActStartDate": "/Date(1589932800000)/",
+            "ActEndDate": "/Date(1590105600000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Bulgarian - Bulgaria",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='bgBG')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='bgBG')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='bgBG')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='bgBG')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "bgBG",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590192000000)/",
+            "EndDate": "/Date(1590969600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591030800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591023600000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Bulgarian - Bulgaria",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='bgBG')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='bgBG')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='bgBG')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='bgBG')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "bgBG",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591056000000)/",
+            "EndDate": "/Date(1591142400000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591203600000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591196400000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Bulgarian - Bulgaria",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='bgBG')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='bgBG')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='caES')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='caES')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "caES",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1589932800000)/",
+            "EndDate": "/Date(1590105600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590166800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590159600000)/",
+            "ActStartDate": "/Date(1589932800000)/",
+            "ActEndDate": "/Date(1590105600000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Catalan - Spain",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='caES')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='caES')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='caES')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='caES')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "caES",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590192000000)/",
+            "EndDate": "/Date(1590969600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591030800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591023600000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Catalan - Spain",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='caES')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='caES')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='caES')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='caES')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "caES",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591056000000)/",
+            "EndDate": "/Date(1591142400000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591203600000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591196400000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Catalan - Spain",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='caES')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='caES')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='csCZ')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='csCZ')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "csCZ",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590451200000)/",
+            "EndDate": "/Date(1590624000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590685200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590678000000)/",
+            "ActStartDate": "/Date(1590451200000)/",
+            "ActEndDate": "/Date(1590624000000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Czech - Czech Republic",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='csCZ')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='csCZ')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='csCZ')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='csCZ')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "csCZ",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590710400000)/",
+            "EndDate": "/Date(1591488000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591549200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591542000000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Czech - Czech Republic",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='csCZ')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='csCZ')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='csCZ')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='csCZ')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "csCZ",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591574400000)/",
+            "EndDate": "/Date(1591660800000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591722000000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591714800000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Czech - Czech Republic",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='csCZ')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='csCZ')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='daDK')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='daDK')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "daDK",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590451200000)/",
+            "EndDate": "/Date(1590624000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590685200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590678000000)/",
+            "ActStartDate": "/Date(1590451200000)/",
+            "ActEndDate": "/Date(1590624000000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Danish - Denmark",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='daDK')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='daDK')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='daDK')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='daDK')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "daDK",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590710400000)/",
+            "EndDate": "/Date(1591488000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591549200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591542000000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Danish - Denmark",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='daDK')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='daDK')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='daDK')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='daDK')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "daDK",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591574400000)/",
+            "EndDate": "/Date(1591660800000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591722000000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591714800000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Danish - Denmark",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='daDK')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='daDK')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='deDE')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='deDE')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "deDE",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590451200000)/",
+            "EndDate": "/Date(1590624000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590685200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590678000000)/",
+            "ActStartDate": "/Date(1590451200000)/",
+            "ActEndDate": "/Date(1590624000000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "German - Germany",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='deDE')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='deDE')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='deDE')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='deDE')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "deDE",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590710400000)/",
+            "EndDate": "/Date(1591488000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591549200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591542000000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "German - Germany",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='deDE')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='deDE')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='deDE')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='deDE')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "deDE",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591574400000)/",
+            "EndDate": "/Date(1591660800000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591722000000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591714800000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "German - Germany",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='deDE')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='deDE')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='elGR')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='elGR')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "elGR",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1589932800000)/",
+            "EndDate": "/Date(1590105600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590166800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590159600000)/",
+            "ActStartDate": "/Date(1589932800000)/",
+            "ActEndDate": "/Date(1590105600000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Greek - Greece",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='elGR')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='elGR')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='elGR')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='elGR')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "elGR",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590192000000)/",
+            "EndDate": "/Date(1590969600000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591030800000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591023600000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Greek - Greece",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='elGR')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='elGR')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='elGR')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='elGR')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "elGR",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591056000000)/",
+            "EndDate": "/Date(1591142400000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591203600000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591196400000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1589962379000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1589932800000)/",
+            "SprjlangStatus": "20100",
+            "SlsLangLong": "Greek - Greece",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "SlsLangIsoSimuGrp": "esCO-esMX-enCA-enGB-cyGB-bgBG-caES-elGR",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='elGR')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='elGR')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esES')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esES')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLATE",
+            "SlsLang": "esES",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590451200000)/",
+            "EndDate": "/Date(1590624000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1590685200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1590678000000)/",
+            "ActStartDate": "/Date(1590451200000)/",
+            "ActEndDate": "/Date(1590624000000)/",
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Spanish - Spain",
+            "StepText": "Translate",
+            "SortOrder": "0001",
+            "StepColor": "#E6600D",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esES')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esES')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esES')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esES')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "TRANSLFWL",
+            "SlsLang": "esES",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1590710400000)/",
+            "EndDate": "/Date(1591488000000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591549200000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591542000000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Spanish - Spain",
+            "StepText": "Translate final worklist",
+            "SortOrder": "0002",
+            "StepColor": "#E09D00",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esES')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esES')/ToActivities"
+                }
+            }
+        }, {
+            "__metadata": {
+                "id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esES')",
+                "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='TRANSLATE',SlsLang='esES')",
+                "type": "GSSLS_PROJECT_SRV.TimelineVersion"
+            },
+            "PrjItemId": "7763-1",
+            "TimelineId": "000001",
+            "ServiceStep": "FIN_DEL",
+            "SlsLang": "esES",
+            "SimuStartDate": null,
+            "SimuEndDate": null,
+            "SimuEndTime": "PT00H00M00S",
+            "SimuEndDateTime": null,
+            "SimuPrjTimezone": "",
+            "SimuPrjTimezoneDescr": "",
+            "SimuEndDateUserLocal": null,
+            "StartDate": "/Date(1591574400000)/",
+            "EndDate": "/Date(1591660800000)/",
+            "EndTime": "PT17H00M00S",
+            "EndDateTime": "/Date(1591722000000)/",
+            "PrjTimezone": "CET",
+            "PrjTimezoneDescr": "Central Europe",
+            "EndDateUserLocal": "/Date(1591714800000)/",
+            "ActStartDate": null,
+            "ActEndDate": null,
+            "ActEndTime": "PT00H00M00S",
+            "ActEndDateTime": null,
+            "ActPrjTimezone": "",
+            "ActPrjTimezoneDescr": "",
+            "ActEndDateUserLocal": null,
+            "LastUpdate": "/Date(1590488181000)/",
+            "ChUser": "C5266736",
+            "ChDate": "/Date(1590451200000)/",
+            "SprjlangStatus": "30000",
+            "SlsLangLong": "Spanish - Spain",
+            "StepText": "Final delivery",
+            "SortOrder": "0003",
+            "StepColor": "#759421",
+            "NotCancelled": true,
+            "ReadOnly": true,
+            "EndDateReadOnly": false,
+            "SlsLangIsoGrp": "arSA-csCZ-daDK-deDE-esES",
+            "SlsLangIsoSimuGrp": "arSA-csCZ-daDK-deDE-esES",
+            "ToStepLanguages": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esES')/ToStepLanguages"
+                }
+            },
+            "ToActivities": {
+                "__deferred": {
+                    "uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/gssls/PROJECT_SRV/TimelineVersions(PrjItemId='7763-1',TimelineId='000001',ServiceStep='IMPLMT',SlsLang='esES')/ToActivities"
+                }
+            }
+        }]
+    }
+}

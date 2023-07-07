@@ -1,0 +1,98 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('MARKETING')",
+				"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('MARKETING')",
+				"type": "/GSSLS/PRJ_HELPER_SRV.ProjectType"
+			},
+			"PrjType": "MARKETING",
+			"Description": "Marketing",
+			"CENotifType": "APPROVAL",
+			"AllowAddLanguage": true,
+			"AddLangUntilLangSts": "00000",
+			"ToStakeholderRoles": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('MARKETING')/ToStakeholderRoles"
+				}
+			},
+			"ToWorkgroups": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('MARKETING')/ToWorkgroups"
+				}
+			},
+			"ToAssetTypes": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('MARKETING')/ToAssetTypes"
+				}
+			},
+			"ToSubprojectTypes": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('MARKETING')/ToSubprojectTypes"
+				}
+			}
+		}, {
+			"__metadata": {
+				"id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODFILE')",
+				"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODFILE')",
+				"type": "/GSSLS/PRJ_HELPER_SRV.ProjectType"
+			},
+			"PrjType": "PRODFILE",
+			"Description": "Product file-based",
+			"CENotifType": "",
+			"AllowAddLanguage": true,
+			"AddLangUntilLangSts": "30300",
+			"ToStakeholderRoles": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODFILE')/ToStakeholderRoles"
+				}
+			},
+			"ToWorkgroups": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODFILE')/ToWorkgroups"
+				}
+			},
+			"ToAssetTypes": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODFILE')/ToAssetTypes"
+				}
+			},
+			"ToSubprojectTypes": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODFILE')/ToSubprojectTypes"
+				}
+			}
+		}, {
+			"__metadata": {
+				"id": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODUCT')",
+				"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODUCT')",
+				"type": "/GSSLS/PRJ_HELPER_SRV.ProjectType"
+			},
+			"PrjType": "PRODUCT",
+			"Description": "Product",
+			"CENotifType": "",
+			"AllowAddLanguage": false,
+			"AddLangUntilLangSts": "00000",
+			"ToStakeholderRoles": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODUCT')/ToStakeholderRoles"
+				}
+			},
+			"ToWorkgroups": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODUCT')/ToWorkgroups"
+				}
+			},
+			"ToAssetTypes": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODUCT')/ToAssetTypes"
+				}
+			},
+			"ToSubprojectTypes": {
+				"__deferred": {
+					"uri": "https://vhslsdwdwd.sls.rot.hec.sap.biz/sap/opu/odata/GSSLS/PRJ_HELPER_SRV/ProjectTypes('PRODUCT')/ToSubprojectTypes"
+				}
+			}
+		}]
+	}
+}

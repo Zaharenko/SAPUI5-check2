@@ -1,0 +1,114 @@
+<mvc:View
+    controllerName="project3.controller.LastPage"
+    xmlns:m="sap.m"
+    xmlns:semantic="sap.f.semantic"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.ui.table"
+    xmlns:u="sap.ui.unified"
+    xmlns:core="sap.ui.core">
+
+    <semantic:SemanticPage>
+        <semantic:headerContent>
+            <m:FlexBox justifyContent="SpaceBetween">
+                <m:FlexBox direction="Column">
+                    <m:Text
+                        text="Timeline group"
+                    />
+                    <m:Text
+                        text="{tableTimelines>/SlsLangIsoGrp}"
+                    />
+                </m:FlexBox>
+            </m:FlexBox>
+        </semantic:headerContent>
+        <semantic:content>
+                <m:FlexBox
+                    direction="Column"
+                    fitContainer="true"
+                    height="100%"
+                >
+                    <m:items>
+                        <m:PlanningCalendar
+                            startDate="{timelines>/startDate}"
+                            rows="{timelines>/timeline}"
+                            appointmentsVisualization="Filled"
+                            showEmptyIntervalHeaders="false"
+                            showWeekNumbers="true"
+                            class="sapUiLargeMarginBottom"
+                        >   
+                            <m:toolbarContent>
+                                <m:Title text="Timeline" titleStyle="H4"/>
+                                <m:MultiComboBox
+                                    items="{tableTimelines>/grupsForComparison}"
+                                    selectedKeys="{tableTimelines>/activeLang}"
+                                    selectionChange="changeActiveLang"
+                                    width="230px"
+                                >
+                                    <core:ListItem
+                                        key="{tableTimelines>SlsLang}" text="{tableTimelines>SlsLangLong}"
+                                    >
+                                    </core:ListItem>
+                                </m:MultiComboBox>
+                            </m:toolbarContent>
+                            <m:rows>
+                                <m:PlanningCalendarRow
+                                    icon="sap-icon://gantt-bars"
+                                    class="iconBlue"
+                                    title="{timelines>name}"
+                                    appointments="{path : 'timelines>activeTimeline', templateShareable: false}"
+                                >
+                                    <m:customData>
+                                        <core:CustomData key="emp-name" value="{timelines>name}" writeToDom="true"/>
+                                    </m:customData>
+                                    <m:appointments>
+                                        <u:CalendarAppointment
+                                            startDate="{timelines>StartDate}"
+                                            endDate="{timelines>EndDate}"
+                                            title="{timelines>StepText}"
+                                            text="{path: 'timelines>StartDate', formatter: '.formatter.formatDateTimeline'} - {path: 'timelines>EndDate', formatter: '.formatter.formatDateTimeline'}"
+                                            color="{timelines>StepColor}">
+                                        </u:CalendarAppointment>
+                                    </m:appointments>
+                                </m:PlanningCalendarRow>
+                            </m:rows>
+                        </m:PlanningCalendar>
+
+                        <m:ToolbarSpacer />
+
+                        <m:Table items="{tableTimelines>/timeline}" id="timelineTable" updateFinished="updateFinished">
+                            <m:columns>
+                                <m:Column>
+                                    <m:Text text="StepText"/>
+                                </m:Column>
+                                <m:Column>
+                                    <m:Text text="StartDate"/>
+                                </m:Column>
+                                <m:Column>
+                                    <m:Text text="EndDate"/>
+                                </m:Column>
+                            </m:columns>
+                            <m:items>
+                                <m:ColumnListItem>
+                                    <m:cells>
+                                        <m:ObjectIdentifier title="{tableTimelines>StepText}" id="firstCell"/>
+                                        <m:ObjectIdentifier title="{path: 'tableTimelines>StartDate', formatter: '.formatter.formatDate'}"/>
+                                        <m:ObjectIdentifier title="{path: 'tableTimelines>EndDate', formatter: '.formatter.formatDate'}"/>
+                                    </m:cells>
+                                </m:ColumnListItem>
+                            </m:items>
+                        </m:Table>
+
+                    </m:items>
+                </m:FlexBox>
+            
+        </semantic:content>
+        <!--Semantic ShareMenu Buttons-->
+
+        <semantic:closeAction>
+            <semantic:CloseAction
+                    id="closeColumn"
+                    press="onNavBack"/>
+        </semantic:closeAction>
+
+    </semantic:SemanticPage>
+
+</mvc:View>

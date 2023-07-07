@@ -1,0 +1,106 @@
+<mvc:View displayBlock="true" controllerName="project3.controller.TimeLine" height="100%"
+    xmlns:m="sap.m"
+    xmlns:semantic="sap.f.semantic"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.ui.table"
+    xmlns:customTable="project3.control">
+
+    <semantic:SemanticPage
+        id="timeline"
+        busy="{timelinesView>/busy}"
+        busyIndicatorDelay="{timelinesView>/delay}">
+        <semantic:titleHeading>
+            <m:Title
+                text="{detailView>/currentSelectedSubProject/SubprjName}"
+                level="H2"/>
+        </semantic:titleHeading>
+        <semantic:headerContent>
+            <m:FlexBox justifyContent="SpaceBetween">
+                <m:FlexBox direction="Column">
+                    <m:ObjectAttribute title="{i18n>detailId}" text="{detailView>/currentSelectedSubProject/PrjItemId}"/>
+                    <m:ObjectAttribute title="{i18n>projectType}" text="{detailView>/currentSelectedSubProject/SubprjType}"/>
+                </m:FlexBox>
+                <m:FlexBox>
+                    <m:ObjectStatus title="{i18n>status}" text="{detailView>/currentSelectedSubProject/SubprjStatusDescr}"/>
+                </m:FlexBox>
+            </m:FlexBox>
+        </semantic:headerContent>
+        <semantic:content>
+
+            
+            
+
+
+            <TreeTable
+                    id="TreeTableBasic"
+                    rows="{path:'timelinesView>/timelines', parameters: {arrayNames:['categories']}}"
+                    selectionMode="None"
+                    enableSelectAll="false"
+                    useGroupMode="false"
+                    groupHeaderProperty="title">
+                <extension>
+                    <m:OverflowToolbar style="Clear">
+                            <m:Title id="titleTimeLines" text="{i18n>timeLines}"/>
+                            <m:ToolbarSpacer/>
+                            <m:Button text="Edit selected timelines"/>
+                            <m:Button text="Toggle volume groups" press="onToggleVolumeGroups"/>
+                    </m:OverflowToolbar>
+                </extension>
+                <columns>
+                    <Column width="7rem">
+                        <template>
+                            <m:CheckBox selected="{timelinesView>selected}" select=".onGroupSelectAll" />
+                        </template>
+                    </Column>
+                    <Column width="18rem">
+                        <template>
+                            <m:Button 
+                                icon="https://flagsapi.com/{timelinesView>SlsLangFlag}/flat/64.png"
+                                text="{timelinesView>SlsLangLong} ({timelinesView>SlsLang})" 
+                                press="toSelectedTimeline"
+                                type="Transparent"
+                            />
+                        </template>
+                    </Column>
+                    <Column width="4rem">
+                        <template>
+                            <m:Button
+                                icon="sap-icon://locked"
+                                visible="{timelinesView>ReadOnly}"
+                                type="Transparent"
+                            />
+                        </template>
+                    </Column>
+                    <Column width="4rem">
+                        <template>
+                            <m:Text text=""/>
+                        </template>
+                    </Column>
+                </columns>
+            </TreeTable>
+
+        </semantic:content>
+        <!--Semantic ShareMenu Buttons-->
+
+        <semantic:closeAction>
+            <semantic:CloseAction
+                id="closeColumn"
+                press=".onCloseDetailPress"/>
+        </semantic:closeAction>
+
+        <semantic:fullScreenAction>
+            <semantic:FullScreenAction
+                id="enterFullScreen"
+                visible="{= !${device>/system/phone} &amp;&amp; !${appView>/actionButtonsInfo/endColumn/fullScreen}}"
+                press=".toggleFullScreen"/>
+        </semantic:fullScreenAction>
+        <semantic:exitFullScreenAction>
+            <semantic:ExitFullScreenAction
+                id="exitFullScreen"
+                visible="{= !${device>/system/phone} &amp;&amp; ${appView>/actionButtonsInfo/endColumn/fullScreen}}"
+                press=".toggleFullScreen"/>
+        </semantic:exitFullScreenAction>
+
+    </semantic:SemanticPage>
+
+</mvc:View>
